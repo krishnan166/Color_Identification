@@ -2,15 +2,13 @@
 Identifies all colors in a given image when clicked.
 
 ### Output Images
-Input 1:
- <img src="https://github.com/krishnan166/Color_Identification/blob/main/1.jpg">
+Output 1:
+ <img src="https://github.com/krishnan166/Color_Identification/blob/main/11.png">
  <br>
  Output 1:
- <img src="https://github.com/krishnan166/Color_Identification/blob/main/output 1.png">
+ <img src="https://github.com/krishnan166/Color_Identification/blob/main/12.png">
  <br>
 Output 2:
- <img src="https://github.com/krishnan166/Color_Identification/blob/main/2.jpg">
- <br>
- Output 3:
- <img src="https://github.com/krishnan166/Color_Identification/blob/main/output 2.png">
+ <img src="https://github.com/krishnan166/Color_Identification/blob/main/13.png">
+ 
 
